@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linabhagath krishna vamsi devaguptapu kedin.com/in/bhagath-devaguptapu-3aa680226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linabhagath krishna vamsi devaguptapu kedin.com/in/bhagath-devaguptapu-3aa680226/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhagath-devaguptapu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linabhagath krishna vamsi devaguptapu kedin.com/in/bhagath-devaguptapu-3aa680226/" height="30" width="40" /></a>
 <a href="https://instagram.com/devaguptapu_bhagath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devaguptapu_bhagath" height="30" width="40" /></a>
 
 
