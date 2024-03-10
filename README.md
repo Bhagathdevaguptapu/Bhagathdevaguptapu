@@ -1,13 +1,13 @@
-![logo](https://pbs.twimg.com/card_img/1708884365264990208/hW-dVCTC?format=png&name=900x900)
+
 
 <h1 align="center">Hi 👋, I'm Devaguptapu Bhagath</h1>
-<h3 align="center">An enthusiastic frontend developer hailing from India, with a fervor for Cloud Edge Computing development.</h3>
+<h3 align="center">An enthusiastic frontend developer hailing from India, with a fervour for Cloud Edge Computing development.</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagathdevaguptapu&label=Profile%20views&color=0e75b6&style=flat" alt="bhagathdevaguptapu" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot Project**
+- 🔭 I’m currently working on **Mern Stack Project**
 
 - ⚡ Fun fact **I think I am Funny😅**
 
