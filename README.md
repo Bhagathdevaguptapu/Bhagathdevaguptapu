@@ -1,3 +1,40 @@
+### Hi there, I'm Bhagath! 👋
+
+😄 &nbsp; Frontend engineer specializes in React
+<!-- 🌱 &nbsp; Currently learning  to make a new personal project  -->
+🔥 &nbsp; Passionate about writing readable and maintainable code     
+🍵 &nbsp; Free time: Watching Anime  
+🎓 &nbsp; [My Portfolio Website](https://bhagathdevaguptapu.netlify.app/)  
+
+Feel free to follow &amp; reach out to me!  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhagath-devaguptapu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linabhagath krishna vamsi devaguptapu kedin.com/in/bhagath-devaguptapu-3aa680226/" height="30" width="40" /></a>
+<a href="https://instagram.com/devaguptapu_bhagath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devaguptapu_bhagath" height="30" width="40" /></a>
+ 
+
+<br/>
+
+### Tech stack 😎 
+- Specialties: AWS
+- Languages: SQL, Java, Data Structures and Algorithm  
+- Frameworks:  HTML, CSS, JavaScript, React
+- Others: Team Player, Quick Learner, Critical Thinker
+
+
+<!--
+**eastend-street/eastend-street** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 
 <h1 align="center">Hi 👋, I'm D Bhagath Krishna Vamsi</h1>
@@ -23,3 +60,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagathdevaguptapu&show_icons=true&locale=en&layout=compact" alt="bhagathdevaguptapu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagathdevaguptapu&" alt="bhagathdevaguptapu" /></p>
+-->
