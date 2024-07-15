@@ -1,7 +1,6 @@
 ### Hi there, I'm Bhagath! 👋
 
-😄 &nbsp; Frontend engineer specializes in React
-<!-- 🌱 &nbsp; Currently learning  to make a new personal project  -->
+😄 &nbsp; Highly motivated software developer with expertise in Java, AWS-certified
 🔥 &nbsp; Passionate about writing readable and maintainable code     
 🍵 &nbsp; Free time: Watching Anime  
 🎓 &nbsp; [My Portfolio Website](https://bhagathdevaguptapu.netlify.app/)  
