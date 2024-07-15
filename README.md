@@ -1,8 +1,11 @@
 ### Hi there, I'm Bhagath! 👋
 
 😄 &nbsp; Highly motivated software developer with expertise in Java, AWS-certified
+
 🔥 &nbsp; Passionate about writing readable and maintainable code     
+
 🍵 &nbsp; Free time: Watching Anime  
+
 🎓 &nbsp; [My Portfolio Website](https://bhagathdevaguptapu.netlify.app/)  
 
 Feel free to follow &amp; reach out to me!  
