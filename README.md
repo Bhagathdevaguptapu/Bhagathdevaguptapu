@@ -1,15 +1,13 @@
 
 
-<h1 align="center">Hi 👋, I'm Devaguptapu Bhagath</h1>
-<h3 align="center">An enthusiastic frontend developer hailing from India, with a fervour for Cloud Edge Computing development.</h3>
+<h1 align="center">Hi 👋, I'm D Bhagath Krishna Vamsi</h1>
+<h3 align="center">An enthusiastic frontend developer from India, enthusiastic about Cloud Edge Computing development.</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagathdevaguptapu&label=Profile%20views&color=0e75b6&style=flat" alt="bhagathdevaguptapu" /> </p>
 
-- 🔭 I’m currently working on **Mern Stack Project**
 
-- ⚡ Fun fact **I think I am Funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
