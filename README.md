@@ -1,65 +1,91 @@
-### Hi there, I'm Bhagath! 👋
+# Hi there, I'm Bhagath! 👋
 
-😄 &nbsp; Highly motivated software developer with expertise in Java, AWS-certified
+😄 &nbsp; Highly motivated **software developer** with expertise in **Java**, **AWS-certified**, and specialized in **Cloud and Edge Computing**
 
-🔥 &nbsp; Passionate about writing readable and maintainable code     
+🔥 &nbsp; Passionate about **writing readable and maintainable code**  
 
-🍵 &nbsp; Free time: Watching Anime  
+🎨 &nbsp; Published a research paper: *"A Fortifying Cloud Storage: A Comprehensive Analysis of Data Encryption Techniques in Virtualized Environments"*  
+
+🍵 &nbsp; In my free time, I enjoy **watching Anime**  
 
 🎓 &nbsp; [My Portfolio Website](https://bhagathdevaguptapu.netlify.app/)  
 
-Feel free to follow &amp; reach out to me!  
-<h3 align="left">Connect with me:</h3>
+---
+
+## 📞 Connect with me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/bhagath-devaguptapu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linabhagath krishna vamsi devaguptapu kedin.com/in/bhagath-devaguptapu-3aa680226/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhagath-devaguptapu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagath linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/devaguptapu_bhagath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devaguptapu_bhagath" height="30" width="40" /></a>
- 
-
-<br/>
-
-### Tech stack 😎 
-- Specialties: AWS
-- Languages: SQL, Java, Data Structures and Algorithm  
-- Frameworks:  HTML, CSS, JavaScript, React
-- Others: Team Player, Quick Learner, Critical Thinker
-
-
-<!--
-**eastend-street/eastend-street** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<h1 align="center">Hi 👋, I'm D Bhagath Krishna Vamsi</h1>
-<h3 align="center">An enthusiastic frontend developer from India, enthusiastic about Cloud Edge Computing development.</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagathdevaguptapu&label=Profile%20views&color=0e75b6&style=flat" alt="bhagathdevaguptapu" /> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bhagath-devaguptapu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linabhagath krishna vamsi devaguptapu kedin.com/in/bhagath-devaguptapu-3aa680226/" height="30" width="40" /></a>
-<a href="https://instagram.com/devaguptapu_bhagath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devaguptapu_bhagath" height="30" width="40" /></a>
-
-
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagathdevaguptapu&show_icons=true&locale=en&layout=compact" alt="bhagathdevaguptapu" /></p>
+## 💪 Tech Stack & Skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagathdevaguptapu&" alt="bhagathdevaguptapu" /></p>
--->
+<div align="center">
+
+### 🚀 **Specialties**
+<p>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Cloud%20and%20Edge%20Computing-%230A74DA.svg?style=for-the-badge" alt="Cloud and Edge Computing"/>
+</p>
+
+### 🖥️ **Languages**
+<p>
+<img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/SQL-%23478A99.svg?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-%23664e5c.svg?style=for-the-badge" alt="DSA"/>
+</p>
+
+### 📚 **Frameworks**
+<p>
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+### ⚙️ **Tools**
+<p>
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+### 🌟 **Soft Skills**
+<p>
+<img src="https://img.shields.io/badge/Team%20Player-%2312A4D9.svg?style=for-the-badge" alt="Team Player"/>
+<img src="https://img.shields.io/badge/Quick%20Learner-%23E67E22.svg?style=for-the-badge" alt="Quick Learner"/>
+<img src="https://img.shields.io/badge/Critical%20Thinker-%23D4AC0D.svg?style=for-the-badge" alt="Critical Thinker"/>
+</p>
+
+</div>
+
+
+---
+
+## 📚 Highlights
+
+- 🎨 Published Research: *"A Fortifying Cloud Storage: A Comprehensive Analysis of Data Encryption Techniques in Virtualized Environments"*
+- 💼 Internship: Experience at Dusky involving **Selenium**, **Manual Testing**, **Automation**, and **Node.js**
+- 🛠️ Developed **Vultr Server Automation Dashboard** to simplify server provisioning and management using **React**, **Express.js**, and **Vultr API**
+
+---
+
+## 📊 GitHub Stats
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagathdevaguptapu&show_icons=true&theme=radical" alt="bhagathdevaguptapu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagathdevaguptapu&theme=radical" alt="bhagathdevaguptapu" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagathdevaguptapu&show_icons=true&locale=en&layout=compact&theme=radical" alt="bhagathdevaguptapu" /></p>
+
+---
+
+## 🎨 Fun Fact
+- ✨ I believe **clean code** leads to **clean innovation**!  
+- 😄 Always open to **collaborating on innovative projects**.
